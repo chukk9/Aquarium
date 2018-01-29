@@ -1,0 +1,445 @@
+html body div form header nav footer{display:block;}
+
+ul{
+	display:block;
+	position:relative;
+	list-style-type:none;
+	margin-top: 4%;
+	margin-left: 58%;
+	padding:0px;
+	overflow:hidden;	
+}
+
+
+li{
+	font-family:trebuchet MS;
+	font-size: 1.2vw;
+	display:inline;
+	text-decoration:none;
+	color:#ffffff;
+	margin-left: 4%;
+	letter-spacing:.0400em;	
+}
+
+h2{
+	font-family:Palatino Linotype;
+	font-size: 1.5em;
+	color:#00FFFF;
+	text-align:center;
+	margin-left:;
+	letter-spacing:.0400em;
+}
+
+h3{
+	font-family:trebuchet MS;
+	font-size: 1em;
+	color:#ffffff;
+	text-align:center;
+	margin-left:;
+	letter-spacing:.0400em;
+    word-wrap: break-word;	
+}
+
+p{
+	word-wrap: break-word;
+}
+
+
+#container{
+	display:block;
+	position:relative;
+	max-width:1280px;
+	width:100%;
+	min-height:;
+	height:;
+	margin: 0px auto;
+	background-color:#215296;
+}
+
+#header{
+	display:block;
+	position:relative;
+	max-width:1280px;
+	width:100%;
+	height:550px;
+	margin-right:auto;
+	margin-left:auto;
+	background-image:url('///C:/Users/Cee/Desktop/Oceanside/Final Oceanside Imgs/headerbg2.png');
+	background-size:contain;
+	background-repeat:no-repeat;
+	background-position:relative;
+	overflow:hidden;
+	
+}
+
+#logo{
+	display:block;
+	position:relative;
+	max-width: 186px;
+	width:11.0714%;
+	height:196px;
+	float: left;
+	margin-top: auto;
+	margin-left: .5%;
+	background: url('///C:/Users/Cee/Desktop/Oceanside/Final Oceanside Imgs/logo.png') no-repeat top center;
+	background-size:contain;
+	background-position:relative;
+	overflow:hidden;
+}
+
+
+
+#operationinfolink{
+	margin-top: 15%;
+	color:yellow;
+}
+
+#fishface{
+	display:block;
+	position:relative;
+	max-width: 300px;
+	width:15%;
+	height:300px;
+	float: left;
+	margin-top: 4%;
+	margin-left: 2.5%;
+	background-color:#ffffff;
+	background: url('///C:/Users/Cee/Desktop/Oceanside/Final Oceanside Imgs/fishface.png') no-repeat top center;
+	background-size:contain;
+	background-position:relative;
+	overflow:hidden;
+}
+
+#jellyfish{
+	display:block;
+	position:relative;
+	max-width: 300px;
+	width:15%;
+	height:300px;
+	float: left;
+	margin-top: 4%;
+	margin-left:3%;
+	background-color:#ffffff;
+	background: url('///C:/Users/Cee/Desktop/Oceanside/Final Oceanside Imgs/jellyfish.png') no-repeat top center;
+	background-size:contain;
+	background-position:relative;
+	overflow:hidden;
+}
+
+#hours{
+	float:left;
+	position:relative;
+	margin-top: 0.2%;
+	margin-left: 3%;
+}
+
+#tickets{
+	float:left;
+	position:relative;
+	margin-top: 0.2%;
+	margin-left: 10%;
+}
+
+#attractions{
+	display:block;
+	position:;
+	max-width:1280px;
+	width:100%;
+	height:575px;
+	margin-right:auto;
+	margin-left:auto;
+	background-color:;
+	overflow:hidden;
+}
+
+#attevents{
+	clear:both;
+	text-align: center;
+	margin: 2% 5%;
+}
+
+#reeflife{
+	float:left;
+	display:block;
+	position:relative;
+	max-width:300px;
+	width:100%;
+	max-height: 500px;
+	height:100%;
+	margin: 0 5%;
+	background-color:;
+	overflow: hidden;
+}
+
+#sharktank{
+	float:left;
+	display:block;
+	position:relative;
+	max-width:300px;
+	width:100%;
+	max-height: 500px;
+	height:100%;
+	margin: 0 4.8%;
+	background-color:#;
+	overflow: hidden;
+}
+
+#opensea{
+	float:left;
+	display:block;
+	position:relative;
+	max-width:300px;
+	width:100%;
+	max-height: 500px;
+	height:100%;
+	margin: 0 4%;
+	background-color:#;
+	overflow: hidden;
+}
+
+#seahorse{
+	float: left;
+	position:;
+	margin-top:1%;
+	margin-left:6%;
+	max-width: 125px;
+	width:100%;
+	max-height:125px;
+	height:;
+}
+
+#sharks{
+	float: left;
+	position: relative;
+	margin-top:1%;
+	margin-left:10%;
+	max-width: 125px;
+	width:100%;
+	max-height:125px;
+	height:;
+}
+
+#turtle{
+	float: left;
+	position: relative;
+	margin-top:1%;
+	margin-left:6%;
+	max-width: 125px;
+	width:100%;
+	max-height:125px;
+	height:;
+}
+
+#otter{
+	position: relative;
+	margin-top:1%;
+	margin-left:12%;
+	max-width: 300px;
+	width:75%;
+	max-height:300px;
+}
+
+#vidarchives{
+	float:left;
+	max-width:300px;
+	width:60%;
+	height:auto;
+	margin-top:1%;
+	margin-left:2%;
+}
+
+#vidarchtext{
+	margin-top:0.5%;
+	text-align:center;
+	color:yellow;
+}
+
+#releaseturtle{
+	position: relative;
+	margin-top:1%;
+	margin-left:12%;
+	max-width: 300px;
+	width:75%;
+	max-height:300px;	
+}
+
+#eventcalendar{
+	float:right;
+	max-width:300px;
+	width:60%;
+	height:auto;
+	margin-top:1%;
+	margin-right:2%;
+}
+
+#calendartext{
+	margin-top:0.5%;
+	text-align:center;
+	color:yellow;
+}
+
+
+
+
+#hoursntix{
+	display:block;
+	position:relative;
+	max-width:1280px;
+	width:100%;
+	max-height:300px;
+	height:100%;
+	margin-right:auto;
+	margin-left:auto;
+	background-color: #6495ED;
+	overflow:hidden;
+}
+
+#visitrehabfacil{
+	display:block;
+	position:relative;
+	max-width:1280px;
+	width:100%;
+	max-height:300px;
+	height:300px;
+	margin-right:auto;
+	margin-left:auto;
+	background-color: #6495ED;
+	overflow:hidden;
+}
+
+
+#rehabcopy{
+	float:left;
+	text-align:center;
+	margin-top:5%;
+	margin-left:4%;
+}
+
+#footer{
+	display:block;
+	position:relative;
+	clear:left;
+	max-width:1280px;
+	width:100%;
+	height:130px;
+	margin-top:3%;
+	margin-right:auto;
+	margin-left:auto;
+	background-color:#6495ED;
+	background-size:contain;
+	background-position:relative;
+}
+
+#footernav{
+	float:left;
+	margin-top:0%;
+	margin-left:4%;
+	line-height:.001em;
+	color:#ffffff;
+	position:relative;
+}
+
+#copyright{
+	float:right;
+	margin-top:8%;
+	margin-right:2%;
+}
+
+
+
+
+.bluebox{
+	display:block;
+	position:relative;
+	max-width:1280px;
+	width:100%;
+	max-height:300px;
+	height=auto;
+	margin-right:auto;
+	margin-left:auto;
+	background-color: #6495ED;
+	overflow:hidden;
+}
+
+.attractstitles{
+	float:left;
+	margin-top:25%;
+	margin-left:2%;
+	position:;
+}
+
+.articlebody{
+	text-align:center;
+	margin-top: 50%;	
+}
+
+.eventtimes{
+	text-align:center;
+	margin-top:1%;	
+}
+
+.infolink{
+	color:#00FFFF;
+	text-align:center;
+}
+
+.camlink{
+	color:yellow;
+	text-align:center;
+	margin-top:15%;
+}
+
+
+.logotext{
+	display:block;
+	position:relative;
+	font-family: Palatino Linotype;
+	font-size: 3.4vw;
+	letter-spacing:.25em;
+	float:left;
+	margin-top:3%;
+	margin-left:.01%;
+	line-height:75%;
+}
+
+.logotext span{
+	font-family: Palatino Linotype;
+	font-size:.41em;
+	letter-spacing: .03em;
+	margin-left: 2.5%;
+}
+
+.statement{
+	display:block;
+	position:relative;
+	font-family:Palatino Linotype;
+	font-size: 1.4vw;
+	letter-spacing:.50em;
+	margin-top:25.2%;
+	margin-left:4%;
+	clear:left;
+	color:#ffffff;
+	line-height:100%;
+}
+
+.statement span{
+	font-family: Palatino Linotype;
+	font-size:.6em;
+	letter-spacing: .5em;
+	margin-left: 2.5%;
+	margin-left:3.1%
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
